@@ -1,0 +1,39 @@
+.inner{
+    background-color: gray;
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 50%;
+
+    margin: auto;
+    width: 300px;
+    padding: 10px;
+
+    text-align: center;
+
+
+}
+
+h1{
+    text-align: center;
+}
+
+.btn{
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+p{
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+input{
+    text-align: center;
+}
+#answer{
+    border-top: 3px solid black;
+}
